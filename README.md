@@ -11,13 +11,14 @@ This is my repository for CS and Algorithms learning with four courses from Prin
 The course 1 + 2 are designed base on the book **Introduction to Computer Science** by Robert Sedgewick and Kevin Wayne while the course 3 + 4 are designed base on the book **Algorithms** by Robert Sedgewick and Kevin Wayne.
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <div style="flex: 1;; text-align: center;">
-<img src="/resources/img/cs-book.jpg" width="400" height="520" alt="Introduction to Computer Science">
+  <div style="flex: 1; text-align: center;">
+    <img src="/resources/img/cs-book.jpg" width="400" height="520" alt="Introduction to Computer Science">
   </div>
- <div style="flex: 1; text-align: center;">
-<img src="/resources/img/algorithms.png" width="400" height="520" alt="Algorithms">
+  <div style="flex: 1; text-align: center;">
+    <img src="/resources/img/algorithms.png" width="400" height="520" alt="Algorithms">
   </div>
 </div>
+
 
 You can find these books at my resources folder:
 - [Introduction to Computer Science](/resources/Computer-Science-Interdisciplinary-Approach.pdf)
