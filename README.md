@@ -12,10 +12,10 @@ The course 1 + 2 are designed base on the book **Introduction to Computer Scienc
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="flex: 1;; text-align: center;">
-<img src="../Princeton/resources/img/cs-book.jpg" width="400" height="520" alt="Introduction to Computer Science">
+<img src="../resources/img/cs-book.jpg" width="400" height="520" alt="Introduction to Computer Science">
   </div>
  <div style="flex: 1; text-align: center;">
-<img src="../Princeton/resources/img/algorithms.png" width="400" height="520" alt="Algorithms">
+<img src="../resources/img/algorithms.png" width="400" height="520" alt="Algorithms">
   </div>
 </div>
 
