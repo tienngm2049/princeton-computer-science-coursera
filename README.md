@@ -20,8 +20,8 @@ The course 1 + 2 are designed base on the book **Introduction to Computer Scienc
 </div>
 
 You can find these books at my resources folder:
-- [Introduction to Computer Science](../Princeton/resources/Computer-Science-Interdisciplinary-Approach.pdf)
-- [Algorithms](../Princeton/resources/Algorithms-4th-Edition.pdf)
+- [Introduction to Computer Science](../resources/Computer-Science-Interdisciplinary-Approach.pdf)
+- [Algorithms](../resources/Algorithms-4th-Edition.pdf)
 
 ## Repository Structure:
 
