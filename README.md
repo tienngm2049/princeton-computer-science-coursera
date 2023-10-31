@@ -10,18 +10,21 @@ This is my repository for CS and Algorithms learning with four courses from Prin
 
 The course 1 + 2 are designed base on the book **Introduction to Computer Science** by Robert Sedgewick and Kevin Wayne while the course 3 + 4 are designed base on the book **Algorithms** by Robert Sedgewick and Kevin Wayne.
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <div style="flex: 1;; text-align: center;">
-<img src="../Princeton/resources/img/cs-book.jpg" width="400" height="520" alt="Introduction to Computer Science">
-  </div>
- <div style="flex: 1; text-align: center;">
-<img src="../Princeton/resources/img/algorithms.png" width="400" height="520" alt="Algorithms">
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="/resources/img/cs-book.jpg" width="400" height="520" alt="Introduction to Computer Science">
+    </td>
+    <td style="text-align: center;">
+      <img src="/resources/img/algorithms.png" width="400" height="520" alt="Algorithms">
+    </td>
+  </tr>
+</table>
+
 
 You can find these books at my resources folder:
-- [Introduction to Computer Science](../Princeton/resources/Computer-Science-Interdisciplinary-Approach.pdf)
-- [Algorithms](../Princeton/resources/Algorithms-4th-Edition.pdf)
+- [Introduction to Computer Science](/resources/Computer-Science-Interdisciplinary-Approach.pdf)
+- [Algorithms](/resources/Algorithms-4th-Edition.pdf)
 
 ## Repository Structure:
 
